@@ -1,5 +1,6 @@
 # The list of activities that will be loaded at GCompris start.
 # Keep it sorted
+adjacent_numbers
 advanced_colors
 algebra_by
 algebra_div
@@ -63,6 +64,7 @@ followline
 football
 fractions_create
 fractions_find
+frieze
 geo-country
 geography
 gletters
@@ -71,6 +73,8 @@ gnumch-factors
 gnumch-inequality
 gnumch-multiples
 gnumch-primes
+graduated_line_read
+graduated_line_use
 grammar_analysis
 grammar_classes
 graph-coloring
@@ -126,6 +130,7 @@ memory-sound
 memory-sound-tux
 memory-tux
 memory-wordnumber
+memory-wordpicture
 mining
 missing-letter
 money
@@ -179,6 +184,7 @@ sudoku
 superbrain
 tangram
 target
+tens_complement_calculate
 tens_complement_find
 tens_complement_swap
 tens_complement_use
