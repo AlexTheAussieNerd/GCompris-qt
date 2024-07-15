@@ -1,0 +1,12 @@
+
+Files named EmojiOne_* were downloaded from
+https://www.svgrepo.com/collection/emojione-emojis/
+All were MIT licensed when downloaded
+
+
+Files named EttaTransport_* were downloaded from 
+https://www.svgrepo.com/collection/transportation-flat-icons/
+All were Public domain licensed when downloaded
+
+
+butterfly.svg was already included with GCompris when activity was modifiedx
